@@ -1,0 +1,60 @@
+@charset "utf-8";
+
+.log{
+	width: 200px;
+	height: auto;
+	margin-left: 65%;
+}
+
+.fnd2{
+    background-image: url(../img/c1.jpg);
+	background-size: cover;
+}
+
+.fnd-jmb{
+    width: 100%;
+    height: 80%;
+    background-image: url(../img/fnd.jpg);
+	background: cover;
+	padding: 10%
+}
+
+.fnd-jmb2{
+    text-align: center;
+    background-image: url(../img/viajando.png);	
+	background-size: cover;
+	
+}
+
+
+.txtbln{
+	color: white;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	background: rgba(0,0,0,0.41);
+	border-radius: 25px;
+	padding: 20px;
+
+}
+
+.footerd{
+	margin-top: 10px;
+	background: rgba(0,0,0,1.00);
+	color: white;
+	padding-top: 5px;
+}
+
+ul li{
+	list-style: none;
+}
+ul li a {
+    text-decoration: none;
+	list-style: none;
+    color: rgba(255,255,255,1.00);
+}
+
+ul li a:hover{
+	font-size: 20px;
+	text-decoration: none;
+	color: white;
+	
+}
